@@ -1,7 +1,8 @@
 # CyberLab — Cybersecurity Home Lab Documentation
 
 **Domain:** `cyberlab.test` | **Kerberos Realm:** `CYBERLAB.TEST`
-**Status:** Active build — Active Directory operational, Wazuh SIEM, IN PROGRESS - ATTACKS SIMULATIONS & FITGAP ANALYSIS
+**Status:** Active build — Active Directory operational, Wazuh SIEM 
+**In Progress:** - Attack Simualtions & Fitgap Analysis
 
 ---
 
