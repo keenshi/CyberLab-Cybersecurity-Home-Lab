@@ -60,8 +60,7 @@ As of this documentation, Active Directory Domain Services, DNS, and Kerberos au
    └──────────────────────┘          └───────────────────────────────────┘
 
    Other known VMs (VMware Library): Windows Server 2025, WazuhServer,
-   WIN10-01 (Windows 10 client — registered as Wazuh agent, currently
-   disconnected), Cloudera-Training (unrelated).
+   WIN10-01 (Windows 10 client — registered as Wazuh agent), Cloudera-Training.
 ```
 
 ## 5. Network Topology
@@ -88,7 +87,7 @@ Home LAN (192.168.178.0/24)
 │                                            for agent enrollment)
 │
 └── Laptop B / Linux Mint — 192.168.178.35 (wlp2s0)
-    Route: 10.10.10.0/24 via 192.168.178.27 dev wlp2s0
+    Route: 10.10.10.0/24 via 192.168.178.27 dev wlp2s
 ```
 
 ## 6. Hardware Specifications
