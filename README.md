@@ -29,7 +29,10 @@ As of this documentation, Active Directory Domain Services, DNS, and Kerberos au
 - SIEM deployment and agent enrollment troubleshooting
 - Structured incident/problem documentation (symptom → cause → fix → verification)
 
-## 4. Lab Architecture
+## 4. Architecture & Network Topology
+
+<img width="1625" height="706" alt="Network-topology" src="https://github.com/user-attachments/assets/ab9087fa-38cb-4dfc-ba82-8e38794e4fd7" />
+
 
 ```
                     ┌───────────────────────────────────────────┐
